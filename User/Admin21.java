@@ -1,4 +1,4 @@
-package UTS.User;
+package User;
 /**
  * Admin21
  */
